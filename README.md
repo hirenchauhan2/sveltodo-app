@@ -16,7 +16,7 @@ yarn && yarn dev
 
 ## App todos
 
-- [] State management
-- [] Unit testing
-- [] Accessibility
-- [] Backend integration
+- [ ] State management
+- [ ] Unit testing
+- [ ] Accessibility
+- [ ] Backend integration
