@@ -9,5 +9,7 @@
 >
   {#each todos as todo (todo.id)}
     <TodoItem {todo} on:complete on:delete />
+  {:else}
+    <p class="p-4">No todos..!</p>
   {/each}
 </div>

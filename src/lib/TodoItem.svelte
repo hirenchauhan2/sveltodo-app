@@ -1,7 +1,7 @@
 <script>
-  export let todo;
-
   import { createEventDispatcher } from "svelte";
+
+  export let todo;
 
   const dispatch = createEventDispatcher();
 
